@@ -1,0 +1,1 @@
+# shopify_image_repository
